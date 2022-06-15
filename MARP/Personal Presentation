@@ -1,0 +1,40 @@
+---
+marp: true
+theme: default
+class: lead
+paginate: true
+backgroundColor: #fff
+backgroundImage: url('https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/v897-wan-01_1.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=3d9da819f628c9e3f1948db5dcfedcb7')
+---
+
+![bg left:40% 80%](https://marp.app/assets/marp.svg)
+
+# *Clint Rhubart*
+#### *Engineer at Computacenter*
+
+Markdown Presentation Ecosystem
+
+https://www.linkedin.com/in/clint-rhubart/
+
+---
+
+# About
+Experienced Information Technology Professional with a demonstrated history of working in various industries. Skilled in Troubleshooting, Network Administration, Network and Desktop Support, IT Management, Documentation with proven Communication and Analytical Skills.
+
+
+```markdown
+# Slide 1
+
+foobar
+
+---
+
+# Slide 2
+
+foobar
+
+---
+
+# Slide 3
+
+foobar
